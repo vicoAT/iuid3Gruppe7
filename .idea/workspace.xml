@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +115,7 @@
       <workItem from="1576013605757" duration="845000" />
       <workItem from="1576059026564" duration="890000" />
       <workItem from="1576061175359" duration="3099000" />
-      <workItem from="1576296931485" duration="2735000" />
+      <workItem from="1576296931485" duration="5121000" />
     </task>
     <task id="LOCAL-00001" summary="added product, profile, register and upload.html&#10;each representing one site of the lost&amp;found page">
       <created>1575985537818</created>
@@ -171,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576299135616</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add index_things_list.html">
+      <created>1576299887431</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576299887431</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +207,8 @@
     <MESSAGE value="add img, css, js etc" />
     <MESSAGE value="add single_thing.html" />
     <MESSAGE value="add new button" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new button" />
+    <MESSAGE value="add index_things_list.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add index_things_list.html" />
   </component>
   <component name="masterDetails">
     <states>
