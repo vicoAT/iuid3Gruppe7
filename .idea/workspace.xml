@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/new_thing.html" afterDir="false" />
+    <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="add new categories">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/new_thing.html" beforeDir="false" afterPath="$PROJECT_DIR$/new_thing.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +38,12 @@
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\roman\IdeaProjects\iuid3Gruppe7" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\roman\IdeaProjects\iuid3Gruppe7" />
       <recent name="C:\Users\vicoi\Desktop\Uni\WS19\Interface und Interaction Design\UE3\iuid3Gruppe7.git" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\roman\IdeaProjects\iuid3Gruppe7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -117,7 +117,7 @@
       <workItem from="1576061175359" duration="3099000" />
       <workItem from="1576296931485" duration="5994000" />
       <workItem from="1576389465576" duration="2016000" />
-      <workItem from="1576432103999" duration="2115000" />
+      <workItem from="1576432103999" duration="2692000" />
     </task>
     <task id="LOCAL-00001" summary="added product, profile, register and upload.html&#10;each representing one site of the lost&amp;found page">
       <created>1575985537818</created>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576390358938</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add new categories">
+      <created>1576446732498</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1576446732498</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +240,8 @@
     <MESSAGE value="add index_things_list.html" />
     <MESSAGE value="add contact" />
     <MESSAGE value="delete some parts of homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete some parts of homepage" />
+    <MESSAGE value="add new categories" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new categories" />
   </component>
   <component name="masterDetails">
     <states>
