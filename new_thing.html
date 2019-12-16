@@ -69,8 +69,10 @@
                     <div class="contact-form">
                         <h3 class="section-title">Hast du etwas gefunden?</h3>
                         <form action="#">
+                            <p>Titel</p>
                             <input type="text" placeholder="Was hast du gefunden?">
-                            <input type="text" placeholder="Beschreibung">
+                            <p style="color: red">Titel muss aus mindestens 5 Zeichen bestehen.</p>
+                            <input type="text" placeholder="Beschreibung" size="5" minlength="500">
                             <div class="field custom-select-box">
                                 <select name="categories" class="custom-select">
                                         <option value="0">Kategorien</option>
@@ -86,6 +88,7 @@
 
                                 </select>
                             </div>
+                            <br>
                             <input type="text" placeholder="Wo hast du es gefunden?">
 
                             <textarea name="message" placeholder="Deine Nachricht"></textarea>
