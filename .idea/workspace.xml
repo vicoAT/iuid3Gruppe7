@@ -117,7 +117,7 @@
       <workItem from="1576296931485" duration="5994000" />
       <workItem from="1576389465576" duration="2016000" />
       <workItem from="1576432103999" duration="9718000" />
-      <workItem from="1576470090576" duration="5195000" />
+      <workItem from="1576470090576" duration="6438000" />
     </task>
     <task id="LOCAL-00001" summary="added product, profile, register and upload.html&#10;each representing one site of the lost&amp;found page">
       <created>1575985537818</created>
@@ -385,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576474068341</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="changes">
+      <created>1576500194727</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1576500194727</updated>
+    </task>
+    <task id="LOCAL-00040" summary="changes">
+      <created>1576500370478</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1576500370478</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +447,8 @@
     <MESSAGE value="add img to homepage" />
     <MESSAGE value="add url to Neue Anzeige" />
     <MESSAGE value="some changes for index_list" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes for index_list" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="masterDetails">
     <states>
