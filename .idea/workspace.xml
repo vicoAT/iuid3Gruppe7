@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_things_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_things_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_thing.html" beforeDir="false" afterPath="$PROJECT_DIR$/new_thing.html" afterDir="false" />
-    </list>
+    <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,21 +116,7 @@
       <workItem from="1576389465576" duration="2016000" />
       <workItem from="1576432103999" duration="9718000" />
       <workItem from="1576470090576" duration="12423000" />
-      <workItem from="1576597112633" duration="1029000" />
-    </task>
-    <task id="LOCAL-00010" summary="add contact">
-      <created>1576302084922</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1576302084922</updated>
-    </task>
-    <task id="LOCAL-00011" summary="delete some parts of homepage">
-      <created>1576389816947</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1576389816947</updated>
+      <workItem from="1576597112633" duration="1456000" />
     </task>
     <task id="LOCAL-00012" summary="delete some parts of homepage">
       <created>1576390358938</created>
@@ -466,7 +447,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576597669795</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="links and footer for all seites">
+      <created>1576598166593</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1576598166593</updated>
+    </task>
+    <task id="LOCAL-00060" summary="class=&quot;active&quot; changes for all">
+      <created>1576598368079</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1576598368079</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +511,9 @@
     <MESSAGE value="some changes for index_list" />
     <MESSAGE value="changes" />
     <MESSAGE value="menu for all seites" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu for all seites" />
+    <MESSAGE value="links and footer for all seites" />
+    <MESSAGE value="class=&quot;active&quot; changes for all" />
+    <option name="LAST_COMMIT_MESSAGE" value="class=&quot;active&quot; changes for all" />
   </component>
   <component name="masterDetails">
     <states>
