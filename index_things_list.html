@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <title>Quickfinder Restaurants</title>
+  <link rel="shortcut icon" type="image/png" href="img/favicon.png">
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,300,400,600,700%7CDroid+Serif:300,400,700,400italic">
@@ -26,52 +27,23 @@
 
       <div class="uou-block-2b icons">
         <div class="container">
-          <a href="https://vicoat.github.io/iuid3Gruppe7/" class="logo"><img src="img/logo.png" alt=""></a>
+          <a href="index.html" class="logo"><img src="img/logo.png" alt=""></a>
           <a href="#" class="mobile-sidebar-button mobile-sidebar-toggle"><span></span></a>
 
           <nav class="nav">
             <ul class="sf-menu">
-              <li><a href="index.html"><i class="fa fa-home"></i> Home</a>
-                <ul class="demo-menu">
-                  <li><a href="index.html">Home 1</a></li>
-                  <li><a href="index2.html">Home 2</a></li>
-                </ul>
+              <li class="active"><a href="index.html"><i class="fa fa-home"></i> Homepage </a>
               </li>
               <li>
-                <a href="index_jobs.html"><i class="fa fa-search-plus"></i> Jobs</a>
-                <ul class="demo-menu">
-                  <li><a href="index_jobs.html">Jobs Index(Default)</a></li>
-                  <li><a href="single_job.html">Job Single</a></li>
-                  <li><a href="profile_company.html">Company Profile</a></li>
-                  <li><a href="profile_company2.html">Company Profile (2)</a></li>
-                </ul>
+                <a href="index_things_list.html"><i class="fa fa-search-plus"></i> Verlorene Gegenstände</a>
+
               </li>
               <li>
-                <a href="index_business1.html"><i class="fa fa-suitcase"></i> Businesses</a>
-                <ul class="demo-menu">
-                  <li><a href="index_business1.html">Business Index(Default)</a></li>
-                  <li><a href="index_business2.html">Business Index(2)</a></li>
-                  <li><a href="index_business3.html">Business Index(3)</a></li>
-                  <li><a href="index_business4.html">Business Index(4)</a></li>
-                  <li><a href="index_business5.html">Business Index(5)</a></li>
-                  <li><a href="single_business.html">Business Single</a></li>
-                </ul>
-              <li class="active">
-                <a href="index_things_list.html"><i class="fa fa-cutlery"></i>  Restaurants</a>
-                <ul class="demo-menu">
-                  <li class="active"><a href="index_things_list.html">Restaurant Index</a></li>
-                  <li><a href="single_restaurant.html">Restaurant Single</a></li>
-                </ul>
-              </li>
-              <li>
-                <a href="#"><i class="fa fa-cogs"></i> Features</a>
-                <ul class="demo-menu">
-                  <li><a href="box-variation1.html">Box Variation 1</a></li>
-                  <li><a href="box-variation2.html">Box Variation 2</a></li>
-                  <li><a href="box-variation3.html">Box Variation 3</a></li>
-                  <li><a href="gui-kit.html">GUI kit</a></li>
-                </ul>
-              </li>
+                <div class="search-button">
+                  <a href="new_thing.html"><button class="btn btn-medium btn-primary">Neue Anzeige</button></a>
+                </div>
+
+
             </ul>
           </nav>
         </div>
@@ -173,6 +145,7 @@
         </div>
       </div>
     </div>
+    <div><img src="img/banner-home.jpg" width="100%" height="100"></div>
 
   </div>
 
@@ -183,28 +156,32 @@
 
           <div class="listing listing-1">
             <div class="listing-ver-6">
-
+              <a href="single_thing.html" style="color: green"><div class="listing-heading">
+                <h5 href="single_thing.html" style="color: green">Iphone 8</h5>
+              </div></a>
               <div class="listing-inner">
                 <div class="flexslider default-slider">
                   <ul class="slides">
-                    <li><img src="img/iphone/apple-iphone-8-plus-64-front.jpg" alt=""></li>
+                    <li><img src="img/iphone/apple-iphone-8-plus-64-front.jpg" alt=""> </li>
                     <li><img src="img/iphone/apple-iphone-8-plus-64-front-2.jpg" alt=""></li>
                   </ul>
                 </div>
                 <div class="listing-content">
-                  <a href="single_thing.html"> <h4 class="title-company"> Iphone 8</h4></a>
+                  <h6 class="title-company"><i class="fa fa-map-marker"></i> Audimax, TU Wien</h6>
+                  <span class="location">
+                    <i class="fa fa-user"></i>
+                    sun_shine_12
+                  </span>
+                  <ul class="more-info list-inline">
+                    <li class="info">
+                      <span class="location">
+                    <i class="fa fa-clock-o"></i>
+                    12. Oktober zwischen 12 und 14 Uhr
+                       </span>
+                    </li>
+                  </ul>
 
-
-                  <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><span class="location"><i class="fa fa-user"></i> fluffy95</span></li>
-                        <li><i class="fa fa-compass"></i><span>Hörsaal 5</span></li>
-                        <li><i class="fa fa-clock-o"></i><span>12. Oktober zwischen 12 und 14 Uhr</span></li>
-                      </ul>
-                    </div>
-
-                  </div>
+                  <br>
                   <p>Handy war an der Steckdose unter dem Tisch angesteckt</p>
                   <h6 class="title-tags">Tags:</h6>
                   <ul class="tags list-inline">
@@ -213,255 +190,160 @@
                   </ul>
                   <div class="listing-tabs">
 
-                    <a href="single_thing.html"><i class="fa fa-file-text-o"></i> View Details</a>
+                    <div class="search-button" align="right">
+                      <a href="new_thing.html"><button class="btn btn-medium btn-primary">Zum Gegenstand</button></a>
+                    </div>
 
                   </div>
                 </div>
               </div>
+            </div>
 
-            </div>
             <div class="listing-ver-6">
-              <div class="listing-heading">
-                <h5>Pizza & Chicken Zone</h5>
-                <a href="#"><i class="fa fa-bookmark"></i></a>
-              </div>
+              <a href="single_thing.html" style="color: green"><div class="listing-heading">
+                <h5 href="single_thing.html" style="color: green">Iphone 8</h5>
+              </div></a>
               <div class="listing-inner">
                 <div class="flexslider default-slider">
                   <ul class="slides">
-                    <li><img src="img/slider-img/lv6_thumbnail_2.png" alt=""></li>
-                    <li><img src="img/slider-img/lv6_thumbnail_3.png" alt=""></li>
+                    <li><img src="img/iphone/apple-iphone-8-plus-64-front.jpg" alt=""> </li>
+                    <li><img src="img/iphone/apple-iphone-8-plus-64-front-2.jpg" alt=""></li>
                   </ul>
                 </div>
                 <div class="listing-content">
-                  <h6 class="title-company"><i class="fa fa-map-marker"></i> Manila, Philippines</h6>
+                  <h6 class="title-company"><i class="fa fa-map-marker"></i> Audimax, TU Wien</h6>
                   <span class="location">
                     <i class="fa fa-user"></i>
-                    Juan De La Cruz
+                    sun_shine_12
                   </span>
                   <ul class="more-info list-inline">
-                    <li class="info info-reviews">
-                      <ul class="rate list-inline">
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star-o"></i></li>
-                      </ul>
-                      <span class="count">6 reviews</span>
+                    <li class="info">
+                      <span class="location">
+                    <i class="fa fa-clock-o"></i>
+                    12. Oktober zwischen 12 und 14 Uhr
+                       </span>
                     </li>
                   </ul>
-                  <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-compass"></i><span>Italian</span></li>
-                        <li><i class="fa fa-cutlery"></i><span>For Reservation</span></li>
-                      </ul>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-usd"></i><span>$30 - $100</span></li>
-                        <li><i class="fa fa-clock-o"></i><span>Today 11 AM to 9 PM</span></li>
-                      </ul>
-                    </div>
-                  </div>
+
+                  <br>
+                  <p>Handy war an der Steckdose unter dem Tisch angesteckt</p>
                   <h6 class="title-tags">Tags:</h6>
                   <ul class="tags list-inline">
-                    <li><a href="#">Lasagna</a></li>
-                    <li><a href="#">Fettucciane Alfredo</a></li>
+                    <li><a href="#">APPLE</a></li>
+                    <li><a href="#">HANDY</a></li>
                   </ul>
+                  <div class="listing-tabs">
+
+                    <div class="search-button" align="right">
+                      <a href="new_thing.html"><button class="btn btn-medium btn-primary">Zum Gegenstand</button></a>
+                    </div>
+
+                  </div>
                 </div>
               </div>
-              <div class="listing-tabs">
-                <ul>
-                  <li><a href="single_restaurant.html"><i class="fa fa-file-text-o"></i> View Details</a></li>
-                  <li><a href="single_restaurant.html"><i class="fa fa-check-square-o"></i> Features</a></li>
-                </ul>
-              </div>
             </div>
+
+
             <div class="listing-ver-6">
-              <div class="listing-heading">
-                <h5>Noura Restaurant</h5>
-                <a href="#"><i class="fa fa-bookmark"></i></a>
-              </div>
+              <a href="single_thing.html" style="color: green"><div class="listing-heading">
+                <h5 href="single_thing.html" style="color: green">Iphone 8</h5>
+              </div></a>
               <div class="listing-inner">
                 <div class="flexslider default-slider">
                   <ul class="slides">
-                    <li><img src="img/slider-img/lv6_thumbnail_3.png" alt=""></li>
-                    <li><img src="img/slider-img/lv6_thumbnail_4.png" alt=""></li>
+                    <li><img src="img/iphone/apple-iphone-8-plus-64-front.jpg" alt=""> </li>
+                    <li><img src="img/iphone/apple-iphone-8-plus-64-front-2.jpg" alt=""></li>
                   </ul>
                 </div>
                 <div class="listing-content">
-                  <h6 class="title-company"><i class="fa fa-map-marker"></i> San Francisco, California, USA</h6>
+                  <h6 class="title-company"><i class="fa fa-map-marker"></i> Audimax, TU Wien</h6>
                   <span class="location">
                     <i class="fa fa-user"></i>
-                    Juan De La Cruz
+                    sun_shine_12
                   </span>
                   <ul class="more-info list-inline">
-                    <li class="info info-reviews">
-                      <ul class="rate list-inline">
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star-o"></i></li>
-                      </ul>
-                      <span class="count">6 reviews</span>
+                    <li class="info">
+                      <span class="location">
+                    <i class="fa fa-clock-o"></i>
+                    12. Oktober zwischen 12 und 14 Uhr
+                       </span>
                     </li>
                   </ul>
-                  <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-compass"></i><span>Italian</span></li>
-                        <li><i class="fa fa-cutlery"></i><span>For Reservation</span></li>
-                      </ul>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-usd"></i><span>$30 - $100</span></li>
-                        <li><i class="fa fa-clock-o"></i><span>Today 11 AM to 9 PM</span></li>
-                      </ul>
-                    </div>
-                  </div>
+
+                  <br>
+                  <p>Handy war an der Steckdose unter dem Tisch angesteckt</p>
                   <h6 class="title-tags">Tags:</h6>
                   <ul class="tags list-inline">
-                    <li><a href="#">Lasagna</a></li>
-                    <li><a href="#">Fettucciane Alfredo</a></li>
+                    <li><a href="#">APPLE</a></li>
+                    <li><a href="#">HANDY</a></li>
                   </ul>
+                  <div class="listing-tabs">
+
+                    <div class="search-button" align="right">
+                      <a href="new_thing.html"><button class="btn btn-medium btn-primary">Zum Gegenstand</button></a>
+                    </div>
+
+                  </div>
                 </div>
               </div>
-              <div class="listing-tabs">
-                <ul>
-                  <li><a href="single_restaurant.html"><i class="fa fa-file-text-o"></i> View Details</a></li>
-                  <li><a href="single_restaurant.html"><i class="fa fa-check-square-o"></i> Features</a></li>
-                </ul>
-              </div>
             </div>
+
+
             <div class="listing-ver-6">
-              <div class="listing-heading">
-                <h5>El Patrino Pizza & Pasta</h5>
-                <a href="#"><i class="fa fa-bookmark"></i></a>
-              </div>
+              <a href="single_thing.html" style="color: green"><div class="listing-heading">
+                <h5 href="single_thing.html" style="color: green">Iphone 8</h5>
+              </div></a>
               <div class="listing-inner">
                 <div class="flexslider default-slider">
                   <ul class="slides">
-                    <li><img src="img/slider-img/lv6_thumbnail_4.png" alt=""></li>
-                    <li><img src="img/slider-img/lv6_thumbnail_5.png" alt=""></li>
+                    <li><img src="img/iphone/apple-iphone-8-plus-64-front.jpg" alt=""> </li>
+                    <li><img src="img/iphone/apple-iphone-8-plus-64-front-2.jpg" alt=""></li>
                   </ul>
                 </div>
                 <div class="listing-content">
-                  <h6 class="title-company"><i class="fa fa-map-marker"></i> Manhattan, New York, USA</h6>
+                  <h6 class="title-company"><i class="fa fa-map-marker"></i> Audimax, TU Wien</h6>
                   <span class="location">
                     <i class="fa fa-user"></i>
-                    Juan De La Cruz
+                    sun_shine_12
                   </span>
                   <ul class="more-info list-inline">
-                    <li class="info info-reviews">
-                      <ul class="rate list-inline">
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star-o"></i></li>
-                      </ul>
-                      <span class="count">6 reviews</span>
+                    <li class="info">
+                      <span class="location">
+                    <i class="fa fa-clock-o"></i>
+                    12. Oktober zwischen 12 und 14 Uhr
+                       </span>
                     </li>
                   </ul>
-                  <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-compass"></i><span>Italian</span></li>
-                        <li><i class="fa fa-cutlery"></i><span>For Reservation</span></li>
-                      </ul>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-usd"></i><span>$30 - $100</span></li>
-                        <li><i class="fa fa-clock-o"></i><span>Today 11 AM to 9 PM</span></li>
-                      </ul>
-                    </div>
-                  </div>
+
+                  <br>
+                  <p>Handy war an der Steckdose unter dem Tisch angesteckt</p>
                   <h6 class="title-tags">Tags:</h6>
                   <ul class="tags list-inline">
-                    <li><a href="#">Lasagna</a></li>
-                    <li><a href="#">Fettucciane Alfredo</a></li>
+                    <li><a href="#">APPLE</a></li>
+                    <li><a href="#">HANDY</a></li>
                   </ul>
-                </div>
-              </div>
-              <div class="listing-tabs">
-                <ul>
-                  <li><a href="single_restaurant.html"><i class="fa fa-file-text-o"></i> View Details</a></li>
-                  <li><a href="single_restaurant.html"><i class="fa fa-check-square-o"></i> Features</a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="listing-ver-6">
-              <div class="listing-heading">
-                <h5>Pizza & Grill Expres</h5>
-                <a href="#"><i class="fa fa-bookmark"></i></a>
-              </div>
-              <div class="listing-inner">
-                <div class="flexslider default-slider">
-                  <ul class="slides">
-                    <li><img src="img/slider-img/lv6_thumbnail_5.png" alt=""></li>
-                    <li><img src="img/slider-img/lv6_thumbnail_2.png" alt=""></li>
-                  </ul>
-                </div>
-                <div class="listing-content">
-                  <h6 class="title-company"><i class="fa fa-map-marker"></i> Manhattan, New York, USA</h6>
-                  <span class="location">
-                    <i class="fa fa-user"></i>
-                    Juan De La Cruz
-                  </span>
-                  <ul class="more-info list-inline">
-                    <li class="info info-reviews">
-                      <ul class="rate list-inline">
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star"></i></li>
-                        <li><i class="fa fa-star-o"></i></li>
-                      </ul>
-                      <span class="count">6 reviews</span>
-                    </li>
-                  </ul>
-                  <div class="row">
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-compass"></i><span>Italian</span></li>
-                        <li><i class="fa fa-cutlery"></i><span>For Reservation</span></li>
-                      </ul>
+                  <div class="listing-tabs">
+
+                    <div class="search-button" align="right">
+                      <a href="new_thing.html"><button class="btn btn-medium btn-primary">Zum Gegenstand</button></a>
                     </div>
-                    <div class="col-md-6 col-sm-6">
-                      <ul class="contact">
-                        <li><i class="fa fa-usd"></i><span>$30 - $100</span></li>
-                        <li><i class="fa fa-clock-o"></i><span>Today 11 AM to 9 PM</span></li>
-                      </ul>
-                    </div>
+
                   </div>
-                  <h6 class="title-tags">Tags:</h6>
-                  <ul class="tags list-inline">
-                    <li><a href="#">Lasagna</a></li>
-                    <li><a href="#">Fettucciane Alfredo</a></li>
-                  </ul>
                 </div>
               </div>
-              <div class="listing-tabs">
-                <ul>
-                  <li><a href="single_restaurant.html"><i class="fa fa-file-text-o"></i> View Details</a></li>
-                  <li><a href="single_restaurant.html"><i class="fa fa-check-square-o"></i> Features</a></li>
-                </ul>
-              </div>
             </div>
+
+
           </div>
         </div>
         <div class="col-md-3">
           <div class="sidebar">
             <div class="sidebar-fields">
 
-              <input type="text" placeholder="Keyword">
+              <input type="text" placeholder="Schlüsselwort">
               <div class="location">
                 <i class="fa fa-map-marker"></i>
-                <input type="text" placeholder="Location">
+                <input type="text" placeholder="Fundort">
               </div>
             </div>
             <div class="sidebar-categories">
@@ -515,7 +397,7 @@
               </ul>
             </div>
 
-            <div class="sidebar-scrollbars">
+            <!--<div class="sidebar-scrollbars">
               <h6>Date Posted:</h6>
               <div class="slider-range-container">
                 <div class="slider-range" data-min="1" data-max="60" data-step="2" data-default-min="10" data-default-max="50" data-currency="&nbsp;"></div>
@@ -524,9 +406,9 @@
                   <input type="text" class="range-to" value="60">
                 </div>
               </div>
-            </div>
+            </div>-->
             <div class="sidebar-button">
-              <button class="btn-medium btn-primary full-width">Filter Results</button>
+              <button class="btn-medium btn-primary full-width">Suchen</button>
             </div>
           </div>
         </div>
