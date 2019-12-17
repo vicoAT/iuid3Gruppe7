@@ -119,21 +119,7 @@
       <workItem from="1576389465576" duration="2016000" />
       <workItem from="1576432103999" duration="9718000" />
       <workItem from="1576470090576" duration="12423000" />
-      <workItem from="1576597112633" duration="4346000" />
-    </task>
-    <task id="LOCAL-00018" summary="change some parts of index">
-      <created>1576449137215</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1576449137216</updated>
-    </task>
-    <task id="LOCAL-00019" summary="change some parts of index">
-      <created>1576450411876</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1576450411876</updated>
+      <workItem from="1576597112633" duration="7015000" />
     </task>
     <task id="LOCAL-00020" summary="change some parts of index">
       <created>1576450520590</created>
@@ -464,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576602730575</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="changes">
+      <created>1576605143874</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1576605143874</updated>
+    </task>
+    <task id="LOCAL-00068" summary="changes">
+      <created>1576605339511</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1576605339511</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
