@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="" />
+    <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index_things_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_things_list.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,14 +118,7 @@
       <workItem from="1576389465576" duration="2016000" />
       <workItem from="1576432103999" duration="9718000" />
       <workItem from="1576470090576" duration="12423000" />
-      <workItem from="1576597112633" duration="1456000" />
-    </task>
-    <task id="LOCAL-00012" summary="delete some parts of homepage">
-      <created>1576390358938</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1576390358938</updated>
+      <workItem from="1576597112633" duration="2244000" />
     </task>
     <task id="LOCAL-00013" summary="add new categories">
       <created>1576446732498</created>
@@ -461,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576598368079</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Wo wurde es gefunden? for single_thing">
+      <created>1576598607063</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1576598607064</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,7 +515,8 @@
     <MESSAGE value="menu for all seites" />
     <MESSAGE value="links and footer for all seites" />
     <MESSAGE value="class=&quot;active&quot; changes for all" />
-    <option name="LAST_COMMIT_MESSAGE" value="class=&quot;active&quot; changes for all" />
+    <MESSAGE value="Wo wurde es gefunden? for single_thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wo wurde es gefunden? for single_thing" />
   </component>
   <component name="masterDetails">
     <states>
