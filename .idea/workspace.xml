@@ -4,10 +4,8 @@
     <list default="true" id="656931b8-0c38-4d98-a00a-e195dbfa0d1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index_things_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_things_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new_thing.html" beforeDir="false" afterPath="$PROJECT_DIR$/new_thing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single_thing.html" beforeDir="false" afterPath="$PROJECT_DIR$/single_thing.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,14 +121,7 @@
       <workItem from="1576389465576" duration="2016000" />
       <workItem from="1576432103999" duration="9718000" />
       <workItem from="1576470090576" duration="12423000" />
-      <workItem from="1576597112633" duration="524000" />
-    </task>
-    <task id="LOCAL-00009" summary="add index_things_list.html">
-      <created>1576299887431</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1576299887431</updated>
+      <workItem from="1576597112633" duration="1029000" />
     </task>
     <task id="LOCAL-00010" summary="add contact">
       <created>1576302084922</created>
@@ -468,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576506363177</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="menu for all seites">
+      <created>1576597669794</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1576597669795</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +515,8 @@
     <MESSAGE value="add url to Neue Anzeige" />
     <MESSAGE value="some changes for index_list" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="menu for all seites" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu for all seites" />
   </component>
   <component name="masterDetails">
     <states>
